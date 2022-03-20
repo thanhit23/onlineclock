@@ -20,7 +20,7 @@ body{
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
 }
-.container-clock {
+.container-world_time {
   display: none;
 }
 .wrapper-clock {
@@ -110,7 +110,7 @@ body{
   width: 30px;
   height: auto;
 }
-#world-time-btn {
+#time-vn {
   display: none;
 }
 .icon-change i,
